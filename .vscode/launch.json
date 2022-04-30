@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Optimal",
+      "request": "launch",
+      "mainClass": "Binary_Search.MedianOfTwoSortedArrays.Optimal",
+      "projectName": "StriverSDESheet_e2b74240"
+    },
+    {
+      "type": "java",
+      "name": "Launch FindNthRoot",
+      "request": "launch",
+      "mainClass": "Binary_Search.FindNthRoot",
+      "projectName": "StriverSDESheet_e2b74240"
+    },
+    {
+      "type": "java",
       "name": "Launch Try",
       "request": "launch",
       "mainClass": "Recursion.CombinationSums1.Try",
